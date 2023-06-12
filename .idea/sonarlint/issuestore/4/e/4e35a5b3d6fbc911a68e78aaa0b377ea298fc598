@@ -1,0 +1,40 @@
+
+c	java:S112î"FDefine and throw a dedicated exception instead of using a generic one.(•ñÀê8•‘Ãğˆ1
+h	java:S112¶"FDefine and throw a dedicated exception instead of using a generic one.(ªû¦Áÿÿÿÿÿ8•‘Ãğˆ1
+m
+java:S1192"KDefine a constant instead of duplicating this literal "yyyy-MM-dd" 6 times.(·×†·úÿÿÿÿ8–‘Ãğˆ1
+n	java:S117Ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìğ“¹8—‘Ãğˆ1
+n	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìğ“¹8—‘Ãğˆ1
+n	java:S117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìğ“¹8—‘Ãğˆ1
+s	java:S117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«¡¹ûÿÿÿÿ8—‘Ãğˆ1
+s	java:S117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªû¦Áÿÿÿÿÿ8—‘Ãğˆ1
+n	java:S117·"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ÊÉÛ8—‘Ãğˆ1
+ƒ
+java:S1488Ÿ"eImmediately return this expression instead of assigning it to the temporary variable "week_day_name".(Ìğ“¹8—‘Ãğˆ1
+ƒ
+java:S1488"eImmediately return this expression instead of assigning it to the temporary variable "week_day_name".(Ìğ“¹8˜‘Ãğˆ1
+ƒ
+java:S1488›"eImmediately return this expression instead of assigning it to the temporary variable "week_day_name".(Ìğ“¹8˜‘Ãğˆ1
+Z
+java:S4973½"<Strings and Boxed types should be compared using "equals()".(´Éï¬8™‘Ãğˆ1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(³¸«©ùÿÿÿÿ8»‘Ãğˆ1
+G
+java:S2885"+Make "datetimeFormat" an instance variable.(ÍäĞR8¿‘Ãğˆ1
+I
+java:S2885"'Make "dateFormat" an instance variable.(·×†·úÿÿÿÿ8À‘Ãğˆ1
+J	java:S108t")Either remove or fill this block of code.(õŠ†üÿÿÿÿ8Ä‘Ãğˆ1
+K	java:S108Œ")Either remove or fill this block of code.(õŠ†üÿÿÿÿ8Æ‘Ãğˆ1
+Y	java:S125å"<This block of commented-out lines of code should be removed.(ßø›8Ê‘Ãğˆ1
+
+java:S1130˜"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(³Â—Á8Ò‘Ãğˆ1
+H
+java:S1197š"*Move the array designators [] to the type.(’³™œ8Ò‘Ãğˆ1
+„
+java:S2178µ"fCorrect this "&" to "&&" and extract the right operand to a variable if it should always be evaluated.(ñ©÷8Ó‘Ãğˆ1
+d
+java:S1126Ô"AReplace this if-then-else statement by a single return statement.(äğ·¾ıÿÿÿÿ8Ô‘Ãğˆ1
+H
+java:S1197Š"*Move the array designators [] to the type.(á™’ì8Õ‘Ãğˆ1
+H
+java:S1197˜"*Move the array designators [] to the type.(’³™œ8Ö‘Ãğˆ1
+p	java:S100µ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«¡¹ûÿÿÿÿ8×‘Ãğˆ1

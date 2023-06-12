@@ -1,0 +1,11 @@
+
+t
+java:S2293Q"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘²Ύψÿÿÿÿ
+R
+java:S2629""7Use the built-in formatting to construct this argument.(Ψή¦‡όÿÿÿÿ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(©θο
+\
+java:S3252!"FUse static access with "com.alibaba.fastjson.JSON" for "toJSONString".(ƒΞ›
+\
+java:S3457""AFormat specifiers should be used instead of string concatenation.(Ψή¦‡όÿÿÿÿ
