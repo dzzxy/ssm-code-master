@@ -4,7 +4,7 @@
 
 ### 1.1 系统环境配置
 
-* 系统开发平台：Tomcat8.0+JDK1.8+Windows7
+* 系统开发平台：Tomcat9.0+JDK1.8+Windows11
 
 * 开发语言：JavaEE
 
@@ -12,7 +12,7 @@
 
 * 前端：JSP
 
-* 数据库:MySql5.7
+* 数据库:MySql8.0
 
 * 开发环境：Intelij Idea
 
