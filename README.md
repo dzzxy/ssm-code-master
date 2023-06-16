@@ -1,15 +1,5 @@
 # ssm-program
 
-#### 介绍
-ssm的各种项目源码，带项目的视频教程，非常详细的讲解ssm的开发。
-视频讲解了，视频也是开源的，关注公众号，回复：ssm水果
-
-![输入图片说明](WebRoot/resource/images/qrcode_for_gh_c0beb5e050be_258_%E7%88%B1%E5%A5%87%E8%89%BA.jpg)
-
-本项目的视频讲解地址：https://www.bilibili.com/video/BV1VA411i7xX
-
-项目正常运行。
-
 ## 1. 项目部署
 
 ### 1.1 系统环境配置
@@ -164,8 +154,3 @@ spring核心包的引入
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/1224/194933_8f9b20e3_7604956.png "屏幕截图.png")
 
-**更多的详细内容可以参考视频！**
-
-关注公众号，回复：ssm水果
-
-![输入图片说明](WebRoot/resource/images/qrcode_for_gh_c0beb5e050be_258_%E7%88%B1%E5%A5%87%E8%89%BA.jpg)
