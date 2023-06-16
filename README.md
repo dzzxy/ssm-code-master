@@ -4,8 +4,6 @@
 
 ### 1.1 系统环境配置
 
-**软件的安装配置可以查看b站java攀登网001的相关视频**
-
 * 系统开发平台：Tomcat8.0+JDK1.8+Windows7
 
 * 开发语言：JavaEE
@@ -68,7 +66,7 @@
 
 ### 2.1 前端功能
 
-* 启动项目成功后，输入localhost:83/test_war_exploded/login/index进入商城首页
+* 启动项目成功后，输入localhost:83/test1_war_exploded/login/index进入商城首页
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/1224/192554_d0cebdde_7604956.png "屏幕截图.png")
 
@@ -94,7 +92,7 @@
 
 ### 2.2 后端功能
 
-* 启动项目成功后，输入localhost:83/test_war_exploded/login/login.html进入后端登录页面
+* 启动项目成功后，输入localhost:83/test1_war_exploded/login/login.html进入后端登录页面
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/1224/193720_8aaf6fd4_7604956.png "屏幕截图.png")
 
